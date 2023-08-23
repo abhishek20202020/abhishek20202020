@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek raj
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
   
